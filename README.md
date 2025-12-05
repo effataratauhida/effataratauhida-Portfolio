@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Effat's Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio! This repository showcases my projects, skills, and experience as a front-end developer.  
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1c9l7E2uVdKsnOy9DTCAboXmQQggXJnQ8
+## 💻 About Me
 
-## Run Locally
+Hi! I'm **Effat**, a passionate **MERN Stack Developer** with experience in **React.js, HTML, CSS, Bootstrap, MongoDB**. I love building responsive, interactive, and user-friendly web applications.  
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Skills
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React.js, Bootstrap, Tailwind CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma  
+- **Other:** Responsive Design, UI/UX, Problem Solving  
+
+<!-- ---
+
+## 📂 Projects
+
+Here are some of my notable projects:
+
+### 1. [Project Name](Project Link)
+- **Description:** A brief description of the project.  
+- **Technologies Used:** React.js, CSS, etc.  
+- **Features:** Highlight 2–3 main features  
+
+### 2. [Project Name](Project Link)
+- **Description:** A brief description of the project.  
+- **Technologies Used:** React.js, Bootstrap, etc.  
+- **Features:** Highlight 2–3 main features  
+
+*(Add more projects as needed)*   -->
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/effat-ara-tauhida/)  
+- **GitHub:** [Your GitHub](https://github.com/effataratauhida)  
+- **Email:** effataratauhida2020@gmail.com  
+
+---
+
+## 📌 Notes
+
+This portfolio is constantly updated with new projects and improvement

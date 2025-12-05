@@ -6,26 +6,26 @@ import { TimelineItem } from '../types';
 const timelineData: TimelineItem[] = [
   {
     year: '2025',
-    title: 'PlateShare Launch',
-    description: 'Officially launched PlateShare beta version, connecting 50+ local restaurants with orphanages.',
+    title: 'PlateShare a Full Stack Project',
+    description: 'PlateShare is a full-stack MERN application that enables users to share surplus food with people in their local community.',
     icon: <Rocket size={20} />,
   },
   {
-    year: '2024',
-    title: 'MERN Stack Mastery',
-    description: 'Deep dove into Advanced Node.js, Microservices, and complex React patterns. Built WarmPaws.',
+    year: '2025',
+    title: 'WarmPaws',
+    description: 'Built WarmPaws with Node.js, Express, MongoDB, and advanced React patterns for a smooth and scalable user experience.',
     icon: <Code2 size={20} />,
   },
   {
-    year: '2023',
+    year: '2024',
     title: 'Web Development Journey',
     description: 'Started learning HTML, CSS, and JS alongside physics studies. Discovered a passion for creating.',
     icon: <Star size={20} />,
   },
   {
-    year: '2020 - 2024',
+    year: '2021 - Running',
     title: 'BSc in Physics',
-    description: 'Studied fundamental laws of nature, honing analytical thinking and problem-solving skills.',
+    description: 'Studying fundamental laws of nature, analytical thinking and problem-solving skills.',
     icon: <GraduationCap size={20} />,
   },
 ];

@@ -49,7 +49,8 @@ const Hero: React.FC = () => {
               <span className="text-roseGold italic">Effat Ara Tauhida</span> 
             </h1>
             <p className="text-lg text-deepTeal-700/80 dark:text-gray-300 mb-8 max-w-lg mx-auto md:mx-0 leading-relaxed font-light">
-              A passionate MERN Stack Developer from Brahmanbaria, building meaningful applications like <strong className="text-roseGold font-medium">PlateShare</strong> to bridge technology with empathy.
+              A passionate MERN Stack Developer from Brahmanbaria, building meaningful applications and focused on creating useful, human-centered digital experiences.
+               {/* like <strong className="text-roseGold font-medium">PlateShare</strong> to bridge technology with empathy. */}
             </p>
 
             <div className="flex items-center justify-center md:justify-start gap-6">

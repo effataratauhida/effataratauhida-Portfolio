@@ -63,13 +63,13 @@ const Contact: React.FC = () => {
           </motion.div>
 
           {/* Postcard Form */}
-          <motion.div 
+          {/* <motion.div 
             initial={{ opacity: 0, x: 30, rotate: 2 }}
             whileInView={{ opacity: 1, x: 0, rotate: 0 }}
             viewport={{ once: true }}
             className="bg-white dark:bg-deepTeal-800 p-8 md:p-10 rounded-xl shadow-xl border border-gray-100 dark:border-white/5 relative"
           >
-            {/* Stamp decoration */}
+            Stamp decoration
             <div className="absolute top-6 right-6 w-16 h-20 border-2 border-dashed border-gray-300 dark:border-white/20 flex items-center justify-center rotate-3 opacity-50 pointer-events-none">
               <Heart size={24} className="text-roseGold/50" />
             </div>
@@ -127,7 +127,7 @@ const Contact: React.FC = () => {
                 </button>
               </form>
             )}
-          </motion.div>
+          </motion.div> */}
         </div>
       </div>
     </section>

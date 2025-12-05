@@ -8,7 +8,7 @@ const projects: Project[] = [
     id: 'plateshare',
     title: 'PlateShare',
     description: 'A food donation platform bridging the gap between surplus food and those in need. Features real-time donation tracking, volunteer coordination, and a warm community feed.',
-    tags: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Google Maps API'],
+    tags: ['React', 'Node.js', 'MongoDB', 'Firebase'],
     image: 'https://picsum.photos/id/42/800/600',
     link: '#',
     featured: true
@@ -17,18 +17,18 @@ const projects: Project[] = [
     id: 'warmpaws',
     title: 'WarmPaws',
     description: 'Adoption agency management tool streamlining the process of finding forever homes for stray animals in Bangladesh.',
-    tags: ['MERN Stack', 'Framer Motion', 'Tailwind'],
+    tags: ['Tailwind', 'MERN Stack'],
     image: 'https://picsum.photos/id/237/800/600',
     link: '#'
   },
-  {
-    id: 'eduvision',
-    title: 'EduVision',
-    description: 'An interactive learning management system designed for rural education centers.',
-    tags: ['React', 'Firebase', 'Chart.js'],
-    image: 'https://picsum.photos/id/20/800/600',
-    link: '#'
-  }
+  // {
+  //   id: 'eduvision',
+  //   title: 'EduVision',
+  //   description: 'An interactive learning management system designed for rural education centers.',
+  //   tags: ['React', 'Firebase', 'Chart.js'],
+  //   image: 'https://picsum.photos/id/20/800/600',
+  //   link: '#'
+  // }
 ];
 
 const Projects: React.FC = () => {
@@ -92,7 +92,7 @@ const Projects: React.FC = () => {
                     >
                       View Details <ExternalLink size={16} />
                     </button>
-                    <a href="#" className="px-6 py-3 border border-deepTeal-200 dark:border-white/20 hover:bg-deepTeal-50 dark:hover:bg-white/5 rounded-xl text-deepTeal-700 dark:text-white font-medium transition-colors">
+                    <a href="https://github.com/effataratauhida/PlateShare-Client-Side" className="px-6 py-3 border border-deepTeal-200 dark:border-white/20 hover:bg-deepTeal-50 dark:hover:bg-white/5 rounded-xl text-deepTeal-700 dark:text-white font-medium transition-colors">
                       Source Code
                     </a>
                   </div>
@@ -137,12 +137,12 @@ const Projects: React.FC = () => {
             </motion.div>
           ))}
         </div>
-
+{/* 
         <div className="mt-12 text-center">
           <button className="text-deepTeal-600 dark:text-peach-200 font-medium hover:tracking-wide transition-all border-b border-roseGold pb-1">
             View All Projects in Archive
           </button>
-        </div>
+        </div> */}
       </div>
 
       {/* Project Modal */}
