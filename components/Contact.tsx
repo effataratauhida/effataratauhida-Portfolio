@@ -45,8 +45,8 @@ const Contact: React.FC = () => {
                   <Phone size={20} />
                 </div>
                 <div>
-                  <p className="text-xs text-gray-500 uppercase tracking-wider">Phone</p>
-                  <p className="font-medium text-deepTeal-900 dark:text-white">01846304323</p>
+                  <p className="text-xs text-gray-500 uppercase tracking-wider">Email</p>
+                  <p className="font-medium text-deepTeal-900 dark:text-white">effataratauhida2020@gmail.com</p>
                 </div>
               </div>
               
